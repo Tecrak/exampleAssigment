@@ -88,7 +88,7 @@ header {
     top:96px;
     width: 120px;
     padding: 10px;
-    margin: 0;
+    margin-top: 9px;
     display: none;
     background: rgb(255, 255, 255);
 }
