@@ -570,20 +570,6 @@ to {
 .form_block > textarea {
     margin-left: auto;
 }
-.skill_evaluate {
-    background: red;
-}
-.ranges {
-    background: blue;
-}
-.ranges > input {
-    margin-top: 10px;
-}
-.skill_evaluate > label {
-    display: block;
-    background: blue;
-    margin: 0 auto;
-}
 .required {
     font-weight: bold;
     color:red;
@@ -607,6 +593,8 @@ to {
     cursor: pointer;
     transition: 0.5s;
     border: 1px black solid;
+    position: relative;
+    top: 5px;
 }
 .textarea > button:hover {
     color:white;
