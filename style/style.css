@@ -32,7 +32,7 @@ ul {
 }
 /* ------Top content------ */
 header {
-    background: url(.../img/background.jpg) center center/cover;
+    background: url(./img/background.jpg) center center/cover;
     height: 750px;
 }
 .navigation {
