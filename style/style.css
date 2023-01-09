@@ -23,12 +23,6 @@ h3 {
     margin: 0;
     padding: 0;
 }
-
-
-
-
-
-
 a {
     color:rgb(48, 48, 48);
     text-decoration: none;
@@ -48,7 +42,7 @@ header {
     align-items: center;
     justify-content: center;
     position: fixed;
-    z-index: 3;
+    z-index: 4;
 }
 .logo {
     position: relative;
@@ -497,7 +491,7 @@ to {
 #modal_background {
     background: rgba(224, 224, 224, 0.303);
     position: fixed;
-    z-index: 4;
+    z-index: 5;
     top:0;
     width: 100%;
     height: 100%;
