@@ -221,7 +221,7 @@ to {
     box-shadow: 2px 5px 5px 0px grey;
     position: relative;
     right: 50px;
-    background: url(/img/about.jpg) center center/cover no-repeat;
+    background: url(../img/about.jpg) center center/cover no-repeat;
 }
 .about_content_text {
     word-wrap: break-word;
