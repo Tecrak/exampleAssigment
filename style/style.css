@@ -37,7 +37,7 @@ header {
 }
 .navigation {
     display: flex;
-    height: 120px;
+    height: 100px;
     width: 98%;
     align-items: center;
     justify-content: center;
@@ -85,10 +85,9 @@ header {
     list-style: none;
     box-shadow: 0px 0px 5px 1px rgba(128, 128, 128, 0.566);
     position: absolute;
-    top:96px;
     width: 120px;
     padding: 10px;
-    margin-top: 9px;
+    margin-top: -8px;
     display: none;
     background: rgb(255, 255, 255);
 }
