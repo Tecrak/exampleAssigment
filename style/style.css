@@ -135,7 +135,7 @@ to {
 }
 .header-content > h1{
     font-size: 55px;
-    color: rgb(71, 71, 71);
+    color: red;
     text-align: center;
     margin: 0;
     text-shadow: 1px 1px 2px lightslategrey;
