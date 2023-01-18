@@ -33,7 +33,7 @@ ul {
 /* ------Top content------ */
 header {
     background: url(../img/background.jpg)  center center/cover no-repeat;
-    height: 750px;
+    height: 47rem;
 }
 .navigation {
     display: flex;
