@@ -6,7 +6,7 @@ html {
 }
 
 section {
-    height: 770px;
+    height: 49.5vw;
     width: 100%;
     margin: 0;
     padding: 0;
@@ -33,7 +33,7 @@ ul {
 /* ------Top content------ */
 header {
     background: url(../img/background.jpg)  center center/cover no-repeat;
-    height: 49vw;
+    height: 49.5vw;
 }
 .navigation {
     display: flex;
